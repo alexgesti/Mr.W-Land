@@ -19,3 +19,5 @@ With which he left immediately for the Dream Caves in search of this treasure to
 + Github:     https://github.com/alexgesti
 + Artstation: https://www.artstation.com/pixelcuak
 + Sketchfab:  https://sketchfab.com/PixelCuak
+
+*Some sprite are from Omega and Neweegee, currently working in my personal sprites and some new stuff.*
