@@ -1,5 +1,5 @@
-# Mr.W-Land -PROVISIONAL NAME-
-CURRENTLY WORKING IN IT.
+# Mr.W-Land
+DISCONTINUED
 
 ## History
 
